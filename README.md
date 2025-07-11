@@ -58,7 +58,7 @@ cp .env.example .env
 
 # 5. Execute o bot
 python main.py
-
+```bash
 
 ## 👨‍💻 Autor
 
