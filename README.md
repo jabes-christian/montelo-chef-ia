@@ -66,6 +66,6 @@ python main.py
 
 Desenvolvido com 💡 e ☕ por **Jabes Christian**
 
-- [LinkedIn](https://www.linkedin.com/in/jabeschristian/)
-- [GitHub](https://github.com/jabeschristian)
+- [LinkedIn](https://www.linkedin.com/in/jabes-christian/)
+- [GitHub](https://github.com/jabes-christian)
 
