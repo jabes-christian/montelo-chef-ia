@@ -1,4 +1,4 @@
-# 👨‍🍳 Montelo - Chef Culinário com Inteligência Artificial
+# 👨‍🍳 Montelo - Chef Culinário IA
 
 **Montelo** é um assistente virtual culinário com inteligência artificial criado para fornecer ideias de pratos, compartilhar conhecimentos sobre diversas culinárias do mundo e identificar propriedades nutricionais de alimentos a partir de imagens. Ele funciona como um bot no Telegram, oferecendo uma experiência interativa com sugestões, receitas, análises nutricionais e muito mais.
 
@@ -40,7 +40,7 @@ Antes de rodar o projeto, você precisa ter:
 
 ## 🔧 Instalação
 
-```bash
+```
 # 1. Clone o repositório
 git clone https://github.com/seu-usuario/montelo-chef-ia.git
 cd montelo-chef-ia
@@ -58,7 +58,9 @@ cp .env.example .env
 
 # 5. Execute o bot
 python main.py
-```bash
+```
+
+---
 
 ## 👨‍💻 Autor
 
@@ -66,3 +68,4 @@ Desenvolvido com 💡 e ☕ por **Jabes Christian**
 
 - [LinkedIn](https://www.linkedin.com/in/jabeschristian/)
 - [GitHub](https://github.com/jabeschristian)
+
